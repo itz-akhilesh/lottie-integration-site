@@ -32,6 +32,8 @@ A showcase of 3 different methods to embed and control Lottie animations in a we
 - **Method 1 – Web Component**  
   👉 [View Demo](https://itz-akhilesh.github.io/lottie-integration-site/index.html)  
   ![Method 1 Screenshot](assets/screenshot-method-1.png)
+![Method 2 Screenshot](assets/screenshot-method-2.png)
+
 
 - **Method 2 – JavaScript API**  
   👉 [View Demo](https://itz-akhilesh.github.io/lottie-integration-site/method-2-js-api.html)  
