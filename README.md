@@ -8,12 +8,6 @@
 - JavaScript
 - Lottie-web (via CDN)
 
-## 🧩 Two Lottie Integration Methods
-
-1. [View Web Component Method](https://itz-akhilesh.github.io/lottie-integration-site/)
-2. [View JavaScript API Method](https://itz-akhilesh.github.io/lottie-integration-site/method-2-js-api.html)
-3. [View toggle switch JavaScript API Method](https://itz-akhilesh.github.io/lottie-integration-site/method-3-toggle.html)
-
 
 ## 📦 Features
 - Lightweight and fast
@@ -32,7 +26,6 @@ A showcase of 3 different methods to embed and control Lottie animations in a we
 - **Method 1 – Web Component**  
   👉 [View Demo](https://itz-akhilesh.github.io/lottie-integration-site/index.html)  
   ![Method 1 Screenshot](assets/screenshot-method-1.png)
-![Method 2 Screenshot](assets/screenshot-method-2.png)
 
 
 - **Method 2 – JavaScript API**  
