@@ -8,14 +8,14 @@
 - JavaScript
 - Lottie-web (via CDN)
 
-
 ## 📦 Features
 - Lightweight and fast
 - Scalable vector animations via JSON
 - Great for SaaS, startup, and product hero sections
 
+---
+
 ## 📸 Preview
-# Lottie Integration Site
 
 A showcase of 3 different methods to embed and control Lottie animations in a web project.
 
@@ -26,7 +26,6 @@ A showcase of 3 different methods to embed and control Lottie animations in a we
 - **Method 1 – Web Component**  
   👉 [View Demo](https://itz-akhilesh.github.io/lottie-integration-site/index.html)  
   ![Method 1 Screenshot](assets/screenshot-method-1.png)
-
 
 - **Method 2 – JavaScript API**  
   👉 [View Demo](https://itz-akhilesh.github.io/lottie-integration-site/method-2-js-api.html)  
@@ -52,6 +51,3 @@ A showcase of 3 different methods to embed and control Lottie animations in a we
 - Want to add engaging animations to landing pages
 - Work with WordPress/Shopify and want to enhance UX
 - Need to show clients that you can do real interactions with code
-
-
-```md
