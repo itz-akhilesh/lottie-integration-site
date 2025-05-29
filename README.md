@@ -1,16 +1,23 @@
-# Lottie Animation in Astra Theme
+# Lottie Integration Site
 
-A simple integration of Lottie animations inside a WordPress site using the Astra theme.
+🎨 A responsive webpage that integrates smooth vector animations using Lottie. Designed with modern layout principles and optimized for performance.
 
-## Features
-- Lightweight animations
-- Compatible with Elementor or Gutenberg
-- Fully responsive
+## 🔧 Tech Used
+- HTML5
+- CSS3
+- JavaScript
+- Lottie-web (via CDN)
 
-## How to Use
-1. Copy `lottie-section.html` into an Elementor HTML widget or block editor
-2. Customize the Lottie `src` link
-3. Adjust size and layout with CSS
+## 🌐 Live Preview
+[https://itz-akhilesh.github.io/lottie-integration-site/](https://itz-akhilesh.github.io/lottie-integration-site/)
 
-## Preview
-*Add screenshots to the screenshots/ folder*
+## 📦 Features
+- Lightweight and fast
+- Scalable vector animations via JSON
+- Great for SaaS, startup, and product hero sections
+
+## 📸 Preview
+*(Optional)* Add a screenshot by uploading one to `/assets/` and using:
+
+```md
+![Preview](assets/preview.jpg)
