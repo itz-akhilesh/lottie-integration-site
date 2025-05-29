@@ -8,8 +8,11 @@
 - JavaScript
 - Lottie-web (via CDN)
 
-## 🌐 Live Preview
-[https://itz-akhilesh.github.io/lottie-integration-site/](https://itz-akhilesh.github.io/lottie-integration-site/)
+## 🧩 Two Lottie Integration Methods
+
+1. [View Web Component Method](https://itz-akhilesh.github.io/lottie-integration-site/)
+2. [View JavaScript API Method](https://itz-akhilesh.github.io/lottie-integration-site/method-2-js-api.html)
+
 
 ## 📦 Features
 - Lightweight and fast
