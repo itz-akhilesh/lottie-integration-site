@@ -12,7 +12,7 @@
 
 1. [View Web Component Method](https://itz-akhilesh.github.io/lottie-integration-site/)
 2. [View JavaScript API Method](https://itz-akhilesh.github.io/lottie-integration-site/method-2-js-api.html)
-3. [View toggle switch JavaScript API Method] (https://itz-akhilesh.github.io/lottie-integration-site/method-3-toggle.html)
+3. [View toggle switch JavaScript API Method](https://itz-akhilesh.github.io/lottie-integration-site/method-3-toggle.html)
 
 
 ## 📦 Features
