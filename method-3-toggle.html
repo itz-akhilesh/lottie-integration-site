@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Lottie Animation - Play/Pause Toggle</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 40px;
+    }
+    #lottie-animation {
+      margin: 0 auto 20px auto;
+      width: 300px;
+      height: 300px;
+    }
+    #toggle-btn {
+      padding: 10px 20px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <h1>Method 3: Lottie with Play/Pause Toggle</h1>
+  <div id="lottie-animation"></div>
+  <button id="toggle-btn">Pause</button>
+
+  <!-- Lottie library -->
+  <script src="https://unpkg.com/lottie-web@5.12.0/build/player/lottie.min.js"></script>
+
+  <script>
+    const animation = lottie.loadAnimation({
+      container: document.getElementById("lottie-animation"),
+      renderer: "svg",
+      loop: true,
+      autoplay: true,
+      path: "assets/animation.json",
+    });
+
+    const toggleBtn = document.getElementById("toggle-btn");
+    let isPlaying = true;
+
+    toggleBtn.addEventListener("click", () => {
+      if (isPlaying) {
+        animation.pause();
+        toggleBtn.textContent = "Play";
+      } else {
+        animation.play();
+        toggleBtn.textContent = "Pause";
+      }
+      isPlaying = !isPlaying;
+    });
+  </script>
+</body>
+</html>
